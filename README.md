@@ -6,7 +6,7 @@
 <h2>Tecnologias🖥️</h2>
 <ul>
 <li><a href=https://nextjs.org/docs>NextJs</a></li>
-<li><a href=https://styled-components.com/>TailWindcss</a></li>
+<li><a href=https://tailwindcss.com/docs/installation/>TailWindcss</a></li>
 </ul>
 
 <h2>Bibliotecas📚</h2>
